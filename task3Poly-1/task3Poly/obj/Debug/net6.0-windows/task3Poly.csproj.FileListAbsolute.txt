@@ -1,0 +1,68 @@
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.exe
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.deps.json
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.runtimeconfig.json
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.dll
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.pdb
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.AssemblyReference.cache
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.polyForm.resources
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.GenerateResource.cache
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfoInputs.cache
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfo.cs
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.CoreCompileInputs.cache
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.dll
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\refint\task3Poly.dll
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.pdb
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.genruntimeconfig.cache
+C:\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\ref\task3Poly.dll
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.exe
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.deps.json
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.runtimeconfig.json
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.dll
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\bin\Debug\net6.0-windows\task3Poly.pdb
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.AssemblyReference.cache
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.polyForm.resources
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.GenerateResource.cache
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfoInputs.cache
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfo.cs
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.CoreCompileInputs.cache
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.dll
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\refint\task3Poly.dll
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.pdb
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\task3Poly.genruntimeconfig.cache
+C:\Wintec 2022\App Development 2022\appDevSessionTwoClass\task3Poly\obj\Debug\net6.0-windows\ref\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.csproj.AssemblyReference.cache
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.csproj.GenerateResource.cache
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.AssemblyInfoInputs.cache
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.AssemblyInfo.cs
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\refint\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.pdb
+C:\Users\GGPC\Desktop\task3Poly(1)\bin\Debug\net6.0-windows\task3Poly.exe
+C:\Users\GGPC\Desktop\task3Poly(1)\bin\Debug\net6.0-windows\task3Poly.deps.json
+C:\Users\GGPC\Desktop\task3Poly(1)\bin\Debug\net6.0-windows\task3Poly.runtimeconfig.json
+C:\Users\GGPC\Desktop\task3Poly(1)\bin\Debug\net6.0-windows\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly(1)\bin\Debug\net6.0-windows\task3Poly.pdb
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.ProfibilityCalculator.resources
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\task3Poly.genruntimeconfig.cache
+C:\Users\GGPC\Desktop\task3Poly(1)\obj\Debug\net6.0-windows\ref\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly\bin\Debug\net6.0-windows\task3Poly.exe
+C:\Users\GGPC\Desktop\task3Poly\bin\Debug\net6.0-windows\task3Poly.deps.json
+C:\Users\GGPC\Desktop\task3Poly\bin\Debug\net6.0-windows\task3Poly.runtimeconfig.json
+C:\Users\GGPC\Desktop\task3Poly\bin\Debug\net6.0-windows\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly\bin\Debug\net6.0-windows\task3Poly.pdb
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.AssemblyReference.cache
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.ProfibilityCalculator.resources
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.GenerateResource.cache
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfoInputs.cache
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.AssemblyInfo.cs
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\refint\task3Poly.dll
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.pdb
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\task3Poly.genruntimeconfig.cache
+C:\Users\GGPC\Desktop\task3Poly\obj\Debug\net6.0-windows\ref\task3Poly.dll

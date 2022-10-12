@@ -1,0 +1,10 @@
+﻿1111,22.3,Jersey_Cow
+1112,21.2,Cow
+1113,19.3,Goat
+1114,25.6,Jersey_Cow
+1115,22.2,Cow
+1116,20.6,Cow
+1117,15.6,Goat
+1118,17.7,Jersey_Cow
+1119,20.9,Jersey_Cow
+1120,24.7,Goat
