@@ -1,0 +1,169 @@
+/*element selectors*/
+
+button{
+	background-color: white;
+	border: 1px solid rgb(170,170,170);
+	height: 40px;
+	margin: 10%  15% 15% 15% ;
+	width: 70%;
+}
+h1, h2, h3 {
+	font-weight: normal;
+	font-style: italic;
+	color: rgb(45,45,45);
+	font-family: 'Times New Roman', serif;
+}
+p, pre, li, input, label, select, button, textarea{ font-family: 'Raleway', sans-serif; }
+label{font-size: 10pt; margin-bottom: 1%;}
+pre{ margin: 0px;}
+iframe{ width: 100%; height: 100%; border: 0px;}
+select{ height: 24px; background-color: white;}
+input{margin-right: 3%;}
+
+
+		
+	/*--------------------------------------------------------------------------------------------body content-------------------------------------------*/
+	.content{
+		display:grid;
+		grid-template-rows: auto auto auto auto;
+		background-color: rgb(234, 228, 225);
+	}
+	.content a:hover{color: rgb(120,120,120);}	
+	
+	.contentBox{
+		grid-row: 2;
+		display: grid;
+		grid-template-columns: 2fr 5fr 5fr 2fr;
+	}
+	
+		
+	 .bookingContentBox {
+		grid-column: 2/4;
+		background-color: white;
+		margin-bottom: 9%;
+		margin-top: 5%;
+		display: grid;
+		grid-template-columns: 1fr 6fr 1fr;
+	}
+	
+	.titleBox{
+		grid-column: 2/3;
+		grid-row: 1/2;
+		text-align: center;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+	
+	
+		/*--------------------------------------------------------------------------------------------booking content---------------------*/
+		
+		.bookingContentBox{
+			grid-template-rows: auto auto auto;
+				
+		}
+			.bookingTitle{ text-align: center; grid-column: 2/3;}
+			
+			.bookingButtons{
+				grid-column: 2/3;
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+			}
+				
+			.guestInfoBox{
+				margin-top: 4%;
+				grid-column: 2/3;
+				grid-row: 3/4;
+				padding: 2% 4% 4% 4%;
+				display: grid;
+				grid-template-rows: auto auto auto auto;
+				border: 1px solid rgb(170,170,170);
+			}
+			
+			.guestInfoBox p, select, input{
+				margin: 0px;
+			}
+			.guestInfoBox h2{
+				margin-top: 4%;
+				margin-bottom: 2%;
+			}
+			
+			.guestInfoTextBox{height: 24px;}
+				.guestInfo{
+					display: grid;
+					grid-template-columns: 1fr 1fr;
+					grid-template-rows: auto auto auto;
+					margin-bottom: 4%;
+				}
+					.singleInfoBox{
+						display: grid;
+						grid-template-rows: 1fr 1fr;
+						margin: 3%;
+						align-items: flex-end;
+					}
+						#guestEmailText{grid-row: 1/3; margin-top: 9%; font-size: 10pt; font-style: italic;}
+						.titleDropList{ height: 30px;}
+			.bookingRoomType{
+				grid-row: 2/3;
+				grid-column: 2/3;
+				border: 1px solid rgb(170,170,170);
+				display:grid;
+				grid-template-columns: 1fr 3.5fr;
+				grid-template-rows: 1fr 1fr;
+				padding: 1%;
+			}
+			
+				#chooseRoom { display: none;}
+				#yourStayTitle{
+					grid-row: 1/2 !important;
+				}
+				
+				#totalPrice , #yourStayTitle{ 
+					margin-right: 25%;
+					grid-row: 2/3; 
+					grid-column: 1/2;
+					display: flex;
+					align-items:center;
+					flex-direction: column;
+					justify-content: center;
+				}
+				#totalPrice h2, #totalPrice h3{margin: 0px;}
+				
+				.yourStayBox, .yourStayBox2{
+					grid-column: 2/5;
+					display:grid;
+					grid-template-columns: 1.5fr 1.5fr 1.5fr 1fr; 
+					grid-template-rows: 1fr 1fr;
+					align-items: flex-end;
+					margin-bottom: 2%;
+				}
+				.yourStayBox2{grid-template-columns: 1.05fr 0.9fr 0.9fr 1fr;}
+				#errorMessage{ display: none; color: red; position: absolute; margin-top: -0.5%; font-size: 10pt;}
+				#ETA, #ETALabel{ opacity: 0; }
+				
+				.stayDate{ width: 80%;}	
+				#roomType{ width:70%;}
+				.numberDropList{ width: 40%;}
+				
+				.customCheckBox	 input {
+					position: absolute;
+					opacity: 0;
+					height: 22px;
+					width: 22px;
+					cursor: pointer;
+					margin: 0px;
+				}
+				
+				.breakfastCheck{
+				  margin: 0px;
+				  height: 22px;
+				  width: 22px;
+				  border: 1px solid rgb(170,170,170);
+				}
+				.customCheckBox	 input:checked ~ .breakfastCheck {
+					background-color: rgb(234, 228, 225);
+				}
+				.customCheckBox  input:hover ~ .breakfastCheck {
+					background-color: rgb(214, 208, 205);
+				}
+				
+	

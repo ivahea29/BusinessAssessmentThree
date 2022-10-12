@@ -1,0 +1,138 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="task10style.css" rel="stylesheet" type="text/css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="content">
+        <div class="contentBox">
+            <div class="bookingContentBox">
+                <div class="titleBox">
+                    <h1 class="bookingTitle">Enter Guest Details</h1>
+                </div>
+                <div class="bookingRoomType">
+                    <div id="yourStayTitle">
+                        <h2 >Your Stay</h2> 
+                    </div>
+                        <form class="yourStayBox">
+                            <label for="startDate">Start Date: </label>
+                            <input id="startDate" oninput="dateInput(); updatePrice();" type="date" class="stayDate" name="StartDate">
+                            <label for="endDate">End Date: </label>
+                            <input id="endDate" oninput="dateInput(); updatePrice();" type="date" class="stayDate" name="endDate">
+                            <label for="roomType">Room Type: </label>
+                            <select oninput = "updatePrice()" id="roomType">
+                              <option value="" id="chooseRoom">&nbsp;</option>
+                              <option value="159">Studio</option>
+                              <option value="389">One Bedroom</option>
+                              <option value="709">Two Bedroom</option>
+                            </select>
+                            <label for="noRooms">No. Rooms: </label>
+                            <select oninput = "updatePrice()" id="noRooms" class="numberDropList">
+                              <option value="1">1</option>
+                              <option value="2">2</option>
+                              <option value="3">3</option>
+                              <option value="4">4</option>
+                            </select>
+                        </form>
+                        <div id="totalPrice">
+                            <h3 id="yourStayTotal"> Total Rate: </h3>
+                            <h2 id="yourStayPrice"> $</h2>
+                        </div>
+                        <form class="yourStayBox2">
+                            <label id="ETALabel" for="ETA">ETA:</label>
+                            <p id="errorMessage">Please enter a valid date.</p>
+                            <label for="noAdults">Adults: </label>
+                            <label for="noChildren">Children: </label>
+                            <label for="breakfast">Breakfast included: </label>
+                            
+                            <input id="ETA" type="time" class="stayDate" value="14:00:00">
+                            
+                            <select oninput = "updatePrice()" class="numberDropList" id="noAdults">
+                              <option value="1">1</option>
+                              <option value="2">2</option>
+                              <option value="3">3</option>
+                              <option value="4">4</option>
+                            </select>
+                            <select oninput = "updatePrice()" class="numberDropList" id="noChildren">
+                              <option value="0">0</option>
+                              <option value="1">1</option>
+                              <option value="2">2</option>
+                              <option value="3">3</option>
+                              <option value="4">4</option>
+                            </select>
+                            <div class="customCheckBox">
+                                <input type="checkbox" onclick="updatePrice()" id="breakfast">
+                                <div class="breakfastCheck"></div>
+                            </div>
+                        </form>
+                </div>
+                
+                <div class="guestInfoBox">
+                    <h2>Personal Information</h2>
+                    <div class="guestInfo">
+                        <div class="singleInfoBox">
+                            <label for="titleDropList">Title</label>
+                            <select id="titleDropList" class="titleDropList">
+                              <option value="ms">Ms.</option>
+                              <option value="mr">Mr.</option>
+                              <option value="mrs">Mrs.</option>
+                            </select>
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="firstname">First Name</label>
+                            <input class="guestInfoTextBox" type="text" id="firstname">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="middlename">Middle Initial</label>
+                            <input class="guestInfoTextBox" type="text" id="middlename">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="lastname">Last Name</label>
+                            <input class="guestInfoTextBox" type="text" id="lastname">
+                        </div>
+                    </div>
+                    <h2>Contact Details</h2>
+                    <div class="guestInfo">
+                        <div class="singleInfoBox">
+                            <label for="address">Address</label>
+                            <input class="guestInfoTextBox" type="text" id="address">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="city">City</label>
+                            <input class="guestInfoTextBox" type="text" id="city">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="postalcode">Postal Code</label>
+                            <input class="guestInfoTextBox" type="text" id="postalcode">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="phoneNo">Phone Number</label>
+                            <input class="guestInfoTextBox" type="tel" id="phoneNo">
+                        </div>
+                        <div class="singleInfoBox">
+                            <label for="email">Email</label>
+                            <input class="guestInfoTextBox" type="email" id="email">
+                        </div>
+                        <div class="singleInfoBox">
+                            <p id="guestEmailText"> Email must be correct as it will
+                             be used to send booking confirmation</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bookingButtons">
+                    <button type="submit">Confirm Booking</button>
+                    <button type="button" onclick="resetInfo()">Reset</button>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+<script src="validation.js"></script>
+    
+</body>
+</html>
