@@ -1,0 +1,17 @@
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.csproj.AssemblyReference.cache
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.Form1.resources
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.csproj.GenerateResource.cache
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.AssemblyInfoInputs.cache
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.AssemblyInfo.cs
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.csproj.CoreCompileInputs.cache
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\bin\Debug\net6.0-windows\GuiAppTask.exe
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\bin\Debug\net6.0-windows\GuiAppTask.deps.json
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\bin\Debug\net6.0-windows\GuiAppTask.runtimeconfig.json
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\bin\Debug\net6.0-windows\GuiAppTask.dll
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\bin\Debug\net6.0-windows\GuiAppTask.pdb
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.dll
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\refint\GuiAppTask.dll
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.pdb
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\GuiAppTask.genruntimeconfig.cache
+C:\App Development 2022\appDevSessionTwoClass\GuiAppTask\obj\Debug\net6.0-windows\ref\GuiAppTask.dll
